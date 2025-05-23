@@ -14,7 +14,7 @@ Building marketing pages with Shadcn Svelte often requires manual setup of conta
 ## Features
 
 * **Layout Components:** `Container`, `Section`, and `Grid` with preset padding and margin scales
-* **Typography:** `Heading` (`H1`–`H4`), `Subheading`, and `Text` components matching marketing design tokens
+* **Typography:** `Heading` (`H1`–`H5`), `Subheading`, and `Text` components matching marketing design tokens
 * **Marketing Blocks:** `Hero`, `FeatureCard`, `TestimonialCard`, `CTAButton` components ready to drop in
 * **Design Tokens:** Consistent color, spacing, and typography variables via Tailwind CSS config
 * **Theming:** Light / dark mode support
