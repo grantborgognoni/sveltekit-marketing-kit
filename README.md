@@ -1,8 +1,6 @@
 # SvelteKit Marketing Kit  
 ![Work in Progress][wip-badge]
 
-> A SvelteKit starter template…
-
 [wip-badge]: https://img.shields.io/badge/status-wip-yellow
 
 > A SvelteKit starter template providing marketing focused UI components built on [shadcn-svelte](https://github.com/shadcn/shadcn-svelte). Ensure consistent typography, spacing, and layout across landing pages and promotional sites.
